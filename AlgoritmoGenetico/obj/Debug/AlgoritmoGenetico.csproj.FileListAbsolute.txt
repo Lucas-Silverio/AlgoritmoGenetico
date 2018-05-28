@@ -1,0 +1,7 @@
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe.config
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.pdb
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csprojResolveAssemblyReference.cache
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.CoreCompileInputs.cache
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.exe
+D:\LucasADS\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.pdb
